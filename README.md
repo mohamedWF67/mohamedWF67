@@ -46,11 +46,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="30" alt="latex logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mohamedWF67/mohamedWF67/output/snake.svg" alt="Snake animation" />
-
-###
